@@ -1,4 +1,4 @@
-const contacto = document.querySelector("#contacto");
+const contactooo = document.querySelector("#contacto");
 const enviar = document.getElementById("btnEnviar");
 contacto.addEventListener("click", (c) =>{
     c.preventDefault();
